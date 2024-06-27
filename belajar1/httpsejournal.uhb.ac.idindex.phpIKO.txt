@@ -1,0 +1,58 @@
+https://ejournal.uhb.ac.id/index.php/IKOMTI/article/view/766/542
+https://csridjournal.potensi-utama.org/index.php/CSRIDjournal/article/view/9/10
+
+
+Untuk menentukan apakah vektor a adalah kombinasi linear dari vektor g dan h, kita dapat menggunakan definisi kombinasi linear berikut:
+
+**Definisi Kombinasi Linear**
+
+Sebuah vektor w ∈ V disebut Kombinasi Linear dari A, jika ∃ {c1, c2, · · · cn} ∈ F n sehingga berlaku w = n ∑ i=1 civi = c1v1 + c2v2 + · · · cnvn[3].
+
+Dalam kasus ini, kita memiliki vektor a = 4i + 3j - 5k dan vektor g = (1, 0, -2), h = (4, 0, 7). Kita perlu menemukan nilai-nilai c1 dan c2 sehingga berlaku a = c1g + c2h.
+
+**Penyelesaian**
+
+Untuk menemukan nilai-nilai c1 dan c2, kita dapat menghitung komponen-komponen vektor a dan menghubungkannya dengan komponen-komponen vektor g dan h.
+
+a = 4i + 3j - 5k
+g = (1, 0, -2)
+h = (4, 0, 7)
+
+Menghitung komponen-komponen vektor a, kita peroleh:
+
+a = 4i + 3j - 5k
+a = 4(1, 0, 0) + 3(0, 1, 0) - 5(0, 0, 1)
+a = 4(1, 0, 0) + 3(0, 1, 0) - 5(0, 0, 1)
+a = (4, 0, -5)
+
+Menghubungkan komponen-komponen vektor a dengan komponen-komponen vektor g dan h, kita peroleh:
+
+a = c1g + c2h
+(4, 0, -5) = c1(1, 0, -2) + c2(4, 0, 7)
+
+Menghitung komponen-komponen vektor a, kita peroleh:
+
+4 = c1 + 4c2
+0 = 0c1 + 0c2
+-5 = -2c1 + 7c2
+
+Menghitung nilai-nilai c1 dan c2, kita peroleh:
+
+c1 = 2
+c2 = -1
+
+Maka, vektor a = 4i + 3j - 5k dapat ditulis sebagai kombinasi linear dari vektor g dan h dengan koefisien c1 = 2 dan c2 = -1, yaitu:
+
+a = 2g - h
+
+Dengan demikian, vektor a adalah kombinasi linear dari vektor g dan h.
+
+Citations:
+[1] https://fliphtml5.com/zrkpa/uvgq/Kelas_10_SMA_Matematika_Siswa/
+[2] https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BG-KLS-VIII.pdf
+[3] https://repository.ung.ac.id/get/kms/17505/resmawan-aljabar-linear-kombinasi-linear-dan-merentang.pdf
+[4] https://id.scribd.com/document/666272281/Modul-Mekanika-Fluida
+[5] https://www.academia.edu/6513039/001_Pembahasan_UTS_Aljabar_Linear
+
+
+https://ejurnal.teknokrat.ac.id/index.php/teknokompak/article/view/3643/1424
